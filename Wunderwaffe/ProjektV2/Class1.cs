@@ -14,5 +14,7 @@ namespace ProjektV2
         }
 
         string Londyn;
+
+        string Goering;
     }
 }
